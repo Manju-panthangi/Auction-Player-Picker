@@ -1,2 +1,2 @@
 # Random-Word-Generator-Website
-A simple website
+Simple website using HTML,CSS,JAVASCRIPT. 
